@@ -1,0 +1,23 @@
+body {
+	background-color:  #25E535;
+	padding: 50px;
+	color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#pic{
+	max-width: 250px;
+	height: auto; 
+	display: block;
+}
+#divhead {
+	padding: 25px;
+}
+li {
+	padding: 30px;
+    display: inline;
+
+}
+#tab {
+	color: white;
+
+}

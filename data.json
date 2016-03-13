@@ -1,0 +1,25 @@
+{
+	"aboutme":[
+		{"Title": "Early life",
+		"content": 
+		"Born and raised in Hong Kong. Grew up in a suburb where people are simple. Finished first degree in The Chinese University of Hong Kong. "
+		},
+
+		{"Title": "Work Exp",
+		"content":
+		"Joined a kid coding academy startup in 2014-2015 before graduation. Teaching kids, planning curriculums, marketing the business, producing videos, ... "
+		},
+		{"Title": "Favorite Singers",
+		"content":
+		"Sodagreen"
+		}
+
+		],
+	"popmusic":[
+{"Name":"Sodagreen"},
+{"Name":"Juno Mak"},
+{"Name":"Cheer Chen"}
+]
+
+
+}
